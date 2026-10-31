@@ -192,5 +192,6 @@ CMakeFiles/ppm.dir/src/main.cc.o
  /usr/include/c++/11/bits/ostream.tcc
  /usr/include/c++/11/istream
  /usr/include/c++/11/bits/istream.tcc
+ /home/dinesh/Documents/Ray_Tracing/include/ray.h
  /home/dinesh/Documents/Ray_Tracing/include/vec3.h
 

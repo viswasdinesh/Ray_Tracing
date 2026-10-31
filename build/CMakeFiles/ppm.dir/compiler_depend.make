@@ -191,8 +191,11 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
+  ../include/ray.h \
   ../include/vec3.h
 
+
+../include/ray.h:
 
 /usr/include/c++/11/bits/istream.tcc:
 
