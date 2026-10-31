@@ -1,8 +1,7 @@
 CMakeFiles/ppm.dir/src/main.cc.o: \
  /home/dinesh/Documents/Ray_Tracing/src/main.cc \
  /usr/include/stdc-predef.h \
- /home/dinesh/Documents/Ray_Tracing/include/color.h \
- /home/dinesh/Documents/Ray_Tracing/include/vec3.h \
+ /home/dinesh/Documents/Ray_Tracing/include/rajinikanth.h \
  /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -158,6 +157,35 @@ CMakeFiles/ppm.dir/src/main.cc.o: \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc \
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/limits \
+ /usr/include/c++/11/memory /usr/include/c++/11/bits/stl_uninitialized.h \
+ /usr/include/c++/11/bits/stl_tempbuf.h \
+ /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
+ /usr/include/c++/11/bits/uses_allocator.h \
+ /usr/include/c++/11/bits/unique_ptr.h /usr/include/c++/11/utility \
+ /usr/include/c++/11/bits/stl_relops.h /usr/include/c++/11/tuple \
+ /usr/include/c++/11/array /usr/include/c++/11/bits/invoke.h \
+ /usr/include/c++/11/bits/shared_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr_base.h \
+ /usr/include/c++/11/bits/allocated_ptr.h \
+ /usr/include/c++/11/bits/refwrap.h \
+ /usr/include/c++/11/ext/aligned_buffer.h \
+ /usr/include/c++/11/ext/concurrence.h \
+ /usr/include/c++/11/bits/shared_ptr_atomic.h \
+ /usr/include/c++/11/bits/atomic_base.h \
+ /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/11/backward/auto_ptr.h \
+ /home/dinesh/Documents/Ray_Tracing/include/color.h \
+ /home/dinesh/Documents/Ray_Tracing/include/rajinikanth.h \
+ /home/dinesh/Documents/Ray_Tracing/include/vec3.h \
+ /home/dinesh/Documents/Ray_Tracing/include/interval.h \
  /home/dinesh/Documents/Ray_Tracing/include/ray.h \
- /home/dinesh/Documents/Ray_Tracing/include/vec3.h
+ /home/dinesh/Documents/Ray_Tracing/include/hittable.h \
+ /home/dinesh/Documents/Ray_Tracing/include/hittable_list.h \
+ /home/dinesh/Documents/Ray_Tracing/include/hittable.h \
+ /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_vector.h \
+ /usr/include/c++/11/bits/stl_bvector.h \
+ /usr/include/c++/11/bits/vector.tcc \
+ /home/dinesh/Documents/Ray_Tracing/include/sphere.h \
+ /home/dinesh/Documents/Ray_Tracing/include/camera.h

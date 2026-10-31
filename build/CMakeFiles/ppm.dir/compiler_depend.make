@@ -3,8 +3,7 @@
 
 CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/stdc-predef.h \
-  ../include/color.h \
-  ../include/vec3.h \
+  ../include/rajinikanth.h \
   /usr/include/c++/11/cmath \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -191,11 +190,82 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
+  /usr/include/c++/11/limits \
+  /usr/include/c++/11/memory \
+  /usr/include/c++/11/bits/stl_uninitialized.h \
+  /usr/include/c++/11/bits/stl_tempbuf.h \
+  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/11/bits/align.h \
+  /usr/include/c++/11/bit \
+  /usr/include/c++/11/bits/uses_allocator.h \
+  /usr/include/c++/11/bits/unique_ptr.h \
+  /usr/include/c++/11/utility \
+  /usr/include/c++/11/bits/stl_relops.h \
+  /usr/include/c++/11/tuple \
+  /usr/include/c++/11/array \
+  /usr/include/c++/11/bits/invoke.h \
+  /usr/include/c++/11/bits/shared_ptr.h \
+  /usr/include/c++/11/bits/shared_ptr_base.h \
+  /usr/include/c++/11/bits/allocated_ptr.h \
+  /usr/include/c++/11/bits/refwrap.h \
+  /usr/include/c++/11/ext/aligned_buffer.h \
+  /usr/include/c++/11/ext/concurrence.h \
+  /usr/include/c++/11/bits/shared_ptr_atomic.h \
+  /usr/include/c++/11/bits/atomic_base.h \
+  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/11/backward/auto_ptr.h \
+  ../include/color.h \
+  ../include/rajinikanth.h \
+  ../include/vec3.h \
+  ../include/interval.h \
   ../include/ray.h \
-  ../include/vec3.h
+  ../include/hittable.h \
+  ../include/hittable_list.h \
+  ../include/hittable.h \
+  /usr/include/c++/11/vector \
+  /usr/include/c++/11/bits/stl_vector.h \
+  /usr/include/c++/11/bits/stl_bvector.h \
+  /usr/include/c++/11/bits/vector.tcc \
+  ../include/sphere.h
 
+
+/usr/include/c++/11/bits/vector.tcc:
+
+/usr/include/c++/11/bits/stl_bvector.h:
 
 ../include/ray.h:
+
+../include/interval.h:
+
+../include/vec3.h:
+
+../include/color.h:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/11/bits/refwrap.h:
+
+/usr/include/c++/11/array:
+
+/usr/include/c++/11/bits/stl_relops.h:
+
+/usr/include/c++/11/bits/uses_allocator.h:
+
+/usr/include/c++/11/vector:
+
+/usr/include/c++/11/bits/align.h:
+
+/usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/11/backward/auto_ptr.h:
+
+/usr/include/c++/11/bits/stl_uninitialized.h:
+
+/usr/include/c++/11/memory:
+
+../include/hittable.h:
+
+/usr/include/c++/11/limits:
 
 /usr/include/c++/11/bits/istream.tcc:
 
@@ -215,11 +285,15 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/c++/11/bits/basic_ios.h:
 
+/usr/include/c++/11/bits/atomic_lockfree_defines.h:
+
 /usr/include/c++/11/bits/streambuf.tcc:
 
 /usr/include/c++/11/stdexcept:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
+
+/usr/include/c++/11/bits/stl_vector.h:
 
 /usr/include/c++/11/system_error:
 
@@ -236,6 +310,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/wctype.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/c++/11/utility:
 
 /usr/include/errno.h:
 
@@ -283,11 +359,21 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
+/usr/include/c++/11/bits/invoke.h:
+
 /usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/c++/11/ext/new_allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
+
+/usr/include/c++/11/bits/allocated_ptr.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
+
+/usr/include/c++/11/bit:
 
 /usr/include/c++/11/cstdlib:
 
@@ -303,6 +389,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
+/usr/include/c++/11/bits/shared_ptr.h:
+
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
@@ -310,6 +398,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/c++/11/cctype:
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
+/usr/include/c++/11/ext/aligned_buffer.h:
 
 /usr/include/endian.h:
 
@@ -323,6 +413,10 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/c++/11/bits/localefwd.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
 /usr/include/c++/11/bits/locale_classes.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
@@ -335,7 +429,37 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/stdint.h:
 
+/usr/include/features-time64.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
+
+/usr/include/c++/11/ios:
+
+/usr/include/features.h:
+
+/usr/include/c++/11/bits/atomic_base.h:
+
+/usr/include/c++/11/ext/numeric_traits.h:
+
+/usr/include/c++/11/bits/stl_iterator_base_funcs.h:
+
+/usr/include/ctype.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
+
+/usr/include/c++/11/bits/unique_ptr.h:
+
+/usr/include/c++/11/ostream:
+
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/include/c++/11/bits/stl_tempbuf.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
@@ -349,45 +473,17 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/c++/11/iosfwd:
 
-/usr/include/features-time64.h:
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
-/usr/include/features.h:
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
-/usr/include/c++/11/ext/numeric_traits.h:
+/usr/include/stdc-predef.h:
 
-/usr/include/c++/11/bits/stl_iterator_base_funcs.h:
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
-/usr/include/ctype.h:
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
-/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h:
-
-/usr/include/c++/11/ostream:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
-/usr/include/x86_64-linux-gnu/bits/types.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
-
-/usr/include/c++/11/ios:
-
-/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-../include/vec3.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
-
-/usr/include/c++/11/bits/std_abs.h:
-
-../src/main.cc:
-
-/usr/include/asm-generic/errno-base.h:
-
-/usr/include/c++/11/bits/char_traits.h:
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
@@ -405,19 +501,15 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+/usr/include/c++/11/bits/std_abs.h:
 
-/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
+../src/main.cc:
 
-/usr/include/stdc-predef.h:
+/usr/include/asm-generic/errno-base.h:
 
-/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
+/usr/include/c++/11/bits/char_traits.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-../include/color.h:
-
-/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
+../include/sphere.h:
 
 /usr/include/c++/11/bits/basic_string.h:
 
@@ -427,6 +519,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
 
+/usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
+
 /usr/include/c++/11/ext/type_traits.h:
 
 /usr/include/x86_64-linux-gnu/bits/endianness.h:
@@ -434,6 +528,10 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 
 /usr/include/c++/11/cmath:
+
+../include/rajinikanth.h:
+
+/usr/include/c++/11/typeinfo:
 
 /usr/include/math.h:
 
@@ -445,6 +543,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
+/usr/include/c++/11/bits/shared_ptr_base.h:
+
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
@@ -452,10 +552,6 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
 /usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/c++/11/ext/new_allocator.h:
-
-/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
 
@@ -501,6 +597,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
+../include/hittable_list.h:
+
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
@@ -517,21 +615,15 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
-/usr/include/c++/11/typeinfo:
-
 /usr/include/c++/11/bits/hash_bytes.h:
 
 /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
 
 /usr/include/c++/11/bits/move.h:
 
+/usr/include/c++/11/tuple:
+
 /usr/include/c++/11/type_traits:
-
-/usr/include/x86_64-linux-gnu/bits/time.h:
-
-/usr/include/c++/11/bits/stl_pair.h:
-
-/usr/include/c++/11/ext/atomicity.h:
 
 /usr/include/c++/11/debug/assertions.h:
 
@@ -569,6 +661,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/c++/11/bits/ios_base.h:
 
+/usr/include/c++/11/ext/concurrence.h:
+
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
 /usr/include/c++/11/bits/cpp_type_traits.h:
@@ -576,3 +670,9 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/pthread.h:
 
 /usr/include/sched.h:
+
+/usr/include/c++/11/bits/stl_pair.h:
+
+/usr/include/c++/11/ext/atomicity.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:

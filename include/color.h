@@ -1,9 +1,11 @@
 #ifndef COLOR_H
 #define COLOR_H
 
+#include "rajinikanth.h"
+
 #include "vec3.h"
 
-#include <iostream>
+
 
 using color = vec3;
 
