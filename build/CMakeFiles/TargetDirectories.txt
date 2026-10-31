@@ -1,0 +1,3 @@
+/home/dinesh/Documents/Ray_Tracing/build/CMakeFiles/ppm.dir
+/home/dinesh/Documents/Ray_Tracing/build/CMakeFiles/edit_cache.dir
+/home/dinesh/Documents/Ray_Tracing/build/CMakeFiles/rebuild_cache.dir

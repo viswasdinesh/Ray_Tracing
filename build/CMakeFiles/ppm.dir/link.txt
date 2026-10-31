@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ppm.dir/src/main.cc.o -o ppm 
