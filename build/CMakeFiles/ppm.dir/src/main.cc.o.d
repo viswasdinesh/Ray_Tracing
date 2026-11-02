@@ -59,9 +59,9 @@ CMakeFiles/ppm.dir/src/main.cc.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
- /usr/include/c++/11/ios /usr/include/c++/11/iosfwd \
- /usr/include/c++/11/bits/stringfwd.h \
+ /usr/include/c++/11/cstdlib /usr/include/c++/11/iostream \
+ /usr/include/c++/11/ostream /usr/include/c++/11/ios \
+ /usr/include/c++/11/iosfwd /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h /usr/include/c++/11/bits/postypes.h \
  /usr/include/c++/11/cwchar /usr/include/wchar.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h \
@@ -128,9 +128,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: \
  /usr/include/c++/11/ext/alloc_traits.h \
  /usr/include/c++/11/bits/alloc_traits.h \
  /usr/include/c++/11/bits/stl_construct.h \
- /usr/include/c++/11/ext/string_conversions.h /usr/include/c++/11/cstdlib \
- /usr/include/c++/11/cstdio /usr/include/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+ /usr/include/c++/11/ext/string_conversions.h /usr/include/c++/11/cstdio \
+ /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
@@ -178,8 +177,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /home/dinesh/Documents/Ray_Tracing/include/color.h \
  /home/dinesh/Documents/Ray_Tracing/include/rajinikanth.h \
- /home/dinesh/Documents/Ray_Tracing/include/vec3.h \
  /home/dinesh/Documents/Ray_Tracing/include/interval.h \
+ /home/dinesh/Documents/Ray_Tracing/include/vec3.h \
  /home/dinesh/Documents/Ray_Tracing/include/ray.h \
  /home/dinesh/Documents/Ray_Tracing/include/hittable.h \
  /home/dinesh/Documents/Ray_Tracing/include/hittable_list.h \

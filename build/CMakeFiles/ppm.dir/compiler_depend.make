@@ -66,6 +66,7 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
   /usr/include/alloca.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/include/c++/11/cstdlib \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/ostream \
   /usr/include/c++/11/ios \
@@ -152,7 +153,6 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/bits/alloc_traits.h \
   /usr/include/c++/11/bits/stl_construct.h \
   /usr/include/c++/11/ext/string_conversions.h \
-  /usr/include/c++/11/cstdlib \
   /usr/include/c++/11/cstdio \
   /usr/include/stdio.h \
   /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
@@ -216,8 +216,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/backward/auto_ptr.h \
   ../include/color.h \
   ../include/rajinikanth.h \
-  ../include/vec3.h \
   ../include/interval.h \
+  ../include/vec3.h \
   ../include/ray.h \
   ../include/hittable.h \
   ../include/hittable_list.h \
@@ -226,7 +226,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/bits/stl_vector.h \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
-  ../include/sphere.h
+  ../include/sphere.h \
+  ../include/camera.h
 
 
 /usr/include/c++/11/bits/vector.tcc:
@@ -235,9 +236,9 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 ../include/ray.h:
 
-../include/interval.h:
-
 ../include/vec3.h:
+
+../include/interval.h:
 
 ../include/color.h:
 
@@ -373,12 +374,6 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
-/usr/include/c++/11/bit:
-
-/usr/include/c++/11/cstdlib:
-
-/usr/include/c++/11/bits/stl_iterator_base_types.h:
-
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
@@ -475,6 +470,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
+../include/camera.h:
+
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/include/stdc-predef.h:
@@ -546,6 +543,12 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/c++/11/bits/shared_ptr_base.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
+
+/usr/include/c++/11/bit:
+
+/usr/include/c++/11/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/11/cstdlib:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
@@ -625,6 +628,12 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 
 /usr/include/c++/11/type_traits:
 
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/c++/11/bits/stl_pair.h:
+
+/usr/include/c++/11/ext/atomicity.h:
+
 /usr/include/c++/11/debug/assertions.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
@@ -670,9 +679,3 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/pthread.h:
 
 /usr/include/sched.h:
-
-/usr/include/c++/11/bits/stl_pair.h:
-
-/usr/include/c++/11/ext/atomicity.h:
-
-/usr/include/x86_64-linux-gnu/bits/time.h:
