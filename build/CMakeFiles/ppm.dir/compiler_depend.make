@@ -227,7 +227,9 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
   ../include/sphere.h \
-  ../include/camera.h
+  ../include/material.h \
+  ../include/camera.h \
+  ../include/material.h
 
 
 /usr/include/c++/11/bits/vector.tcc:
@@ -489,6 +491,8 @@ CMakeFiles/ppm.dir/src/main.cc.o: ../src/main.cc \
 /usr/include/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+../include/material.h:
 
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
 

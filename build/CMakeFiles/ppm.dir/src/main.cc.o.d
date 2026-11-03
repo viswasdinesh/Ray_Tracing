@@ -187,4 +187,6 @@ CMakeFiles/ppm.dir/src/main.cc.o: \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
  /home/dinesh/Documents/Ray_Tracing/include/sphere.h \
- /home/dinesh/Documents/Ray_Tracing/include/camera.h
+ /home/dinesh/Documents/Ray_Tracing/include/material.h \
+ /home/dinesh/Documents/Ray_Tracing/include/camera.h \
+ /home/dinesh/Documents/Ray_Tracing/include/material.h
